@@ -2,4 +2,5 @@
 
 ## Recon
 ### 1. Scanning with nmap.
-    nmap 
+### Script:
+    p$ports(nmap
